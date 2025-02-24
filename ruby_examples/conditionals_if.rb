@@ -1,4 +1,4 @@
-x = 25
+x = 15
 
 if x <= 10
   puts "10 or below"
