@@ -18,6 +18,7 @@ puts "Welcome to The Ruby Guessing Game!"
 puts "----------------------------------"
 puts "What's your name, thou noble sire?"
 puts "----------------------------------"
+print "> "
 response_1 = gets.chomp
 sleep 1
 puts "----------------------------------"
