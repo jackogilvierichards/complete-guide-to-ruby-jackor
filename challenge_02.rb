@@ -1,3 +1,5 @@
+
+#! /usr/bin/env ruby
 #Challenge 2 - Guessing Game
 
 # ask a player for their name and store it
