@@ -34,7 +34,7 @@ puts "----------------------------------"
 rand_num = [*1..10].shuffle.first
 sleep 1
 puts "Can you guess what number I chose?"
-puts rand_num
+#puts rand_num
 puts "----------------------------------"
 
 
