@@ -18,3 +18,4 @@ print "> "
 answers = blanks.map do |request|
   article
 
+# discussed using codespace - today's date
